@@ -1,1 +1,1 @@
-# simple_email_app
+Simple email application done in java.
